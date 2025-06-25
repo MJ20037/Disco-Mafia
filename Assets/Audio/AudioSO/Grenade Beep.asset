@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a619bb86c0feb1a4cae16fe05a3b5463, type: 3}
+  m_Name: Grenade Beep
+  m_EditorClassIdentifier: 
+  AudioType: 0
+  Clip: {fileID: 8300000, guid: 927ff05d216b7414f8fbf4cbd4a1c08b, type: 3}
+  Loop: 0
+  RandomizePitch: 0
+  RandomPitchRangeModifier: 0.1
+  Volume: 0.8
+  Pitch: 1.49
